@@ -25,7 +25,7 @@ Aplikasi ini juga menyediakan daftar kontak psikolog dan psikiater yang dapat di
 - [Shiny](https://shiny.posit.co/)
 - `shiny`, `shinyWidgets`, `officer`, `bslib`, `shinyjs`, `bslib`, `leaflet`
 
-## 🧑‍💻 Instalasi Lokal
+## 🧑‍💻 Bagaimana Cara Menjalankannya?
 
 1. **Clone repositori ini**  
    ```bash
